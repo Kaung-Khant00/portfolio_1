@@ -93,9 +93,9 @@ function Footer() {
       <div className="text-center mt-12 text-sm text-gray-500">
         © {new Date().getFullYear()} Kaung Khant — All Rights Reserved.
       </div>
-      <div className="absolute bottom-10 right-10">
+      <a href='#home' className="absolute bottom-10 right-10">
         <SlArrowUpCircle size={50} />
-      </div>
+      </a>
     </footer>
   );
 }
