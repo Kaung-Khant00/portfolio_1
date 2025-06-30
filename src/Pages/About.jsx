@@ -1,4 +1,3 @@
-import aboutImage from "../assets/profile_1.jpg";
 import { motion } from "framer-motion";
 
 const fadeUp = {
